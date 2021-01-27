@@ -30,7 +30,7 @@
 				<th>First Name</th>
 				<th>Last Name</th>
 				<th>Email Name</th>
-				<th>Action</th>
+				<th>Action</th> 
 			</tr>
 			<c:forEach var="tempCustomer" items="${customers}">
 			<!-- Create update link -->
